@@ -4,7 +4,7 @@ import { message } from "antd";
 import { ImSpinner9 } from "react-icons/im";
 import { useNavigate } from "react-router-dom";
 
-const backendUrl = import.meta.env.VITE_BACKEND_URL|| "http://localhost:5521";
+const backendUrl = import.meta.env.VITE_APP_BACKEND_URL|| "https://bharatticket-b.onrender.com";
 
 export default function Auth() {
 

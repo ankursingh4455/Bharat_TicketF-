@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 
-const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:5521';
+const backendUrl = import.meta.env.VITE_APP_BACKEND_URL || 'https://bharatticket-b.onrender.com';
   console.log(backendUrl);
   export default function Table() {
 
