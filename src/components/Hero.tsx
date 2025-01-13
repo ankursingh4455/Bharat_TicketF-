@@ -21,14 +21,14 @@ export default function Hero() {
                 <div className="absolute transform sm:left-1/2 sm:top-0 sm:translate-x-8 lg:left-1/2 lg:top-1/2 lg:-translate-y-1/2 lg:translate-x-8">
                   <div className="flex items-center space-x-6 lg:space-x-8">
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
-                      <div className="h-full w-full overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
                         <img
                           src="https://img.freepik.com/free-photo/steam-train-chugs-through-mountain-forest-scene-generative-ai_188544-8072.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703289600&semt=ais"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
                       </div>
-                      <div className="h-full w-full overflow-hidden rounded-lg">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           src="https://img.freepik.com/free-photo/railroad-track-transporting-locomotive-mountain-landscape-generative-ai_188544-8138.jpg?t=st=1736773266~exp=1736776866~hmac=8a399a6010df76865715b11e40ceddb518f41fb29441377ceb791b62608b7298&w=900"
                           alt=""
@@ -37,21 +37,21 @@ export default function Hero() {
                       </div>
                     </div>
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
-                      <div className="h-full w-full overflow-hidden rounded-lg">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           src="https://wallpapers.com/images/featured/train-7o9wvprtuvushy43.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
                       </div>
-                      <div className="h-full w-full overflow-hidden rounded-lg">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           src="https://i.pinimg.com/736x/7c/f3/22/7cf3223525b14286fdf5ebc42e628b4d.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
                       </div>
-                      <div className="h-full w-full overflow-hidden rounded-lg">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           src="https://bureaucratsindia.in/cache/vande_bharat_2100_x_1470.webp"
                           alt=""
@@ -60,14 +60,14 @@ export default function Hero() {
                       </div>
                     </div>
                     <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
-                      <div className="h-full w-full overflow-hidden rounded-lg">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           src="https://i.pinimg.com/736x/e5/23/94/e52394d622f58c7567822eb84a2cbf62.jpg"
                           alt=""
                           className="h-full w-full object-cover object-center"
                         />
                       </div>
-                      <div className="h-full w-full overflow-hidden rounded-lg">
+                      <div className="h-64 w-44 overflow-hidden rounded-lg">
                         <img
                           src="https://e1.pxfuel.com/desktop-wallpaper/475/392/desktop-wallpaper-indian-train-indian-railway.jpg"
                           alt=""
