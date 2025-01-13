@@ -53,7 +53,7 @@ export default function Hero() {
                         </div>
                         <div className="h-64 w-44 overflow-hidden rounded-lg">
                           <img
-                            src="https://wallpapers.com/images/hd/train-passing-through-a-forest-gwjshnzxvvja4t27.jpg"
+                            src="https://bureaucratsindia.in/cache/vande_bharat_2100_x_1470.webp"
                             alt=""
                             className="h-full w-full object-cover object-center"
                           />
