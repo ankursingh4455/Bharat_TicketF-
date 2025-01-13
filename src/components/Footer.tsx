@@ -97,7 +97,7 @@
               </a>
             ))}
           </div> */}
-          <p className="mt-8 text-center text-base text-gray-400">Made with ❤️ by Ankit Agrawal and Ankur Singh</p>
+          <p className="mt-8 text-center text-base text-gray-400">Made with ❤️ by Ankur Singh and Ankit Agrawal</p>
         </div>
       </footer>
     )
